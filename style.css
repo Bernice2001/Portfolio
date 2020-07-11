@@ -20,6 +20,7 @@ h2{
     margin-left: 50px;
     color: yellow;
     letter-spacing: 1px;
+    text-decoration: underline;
 
 }
 p{
@@ -35,7 +36,6 @@ li{
     font-style: normal;
     margin-left: 15px;
     color: purple;
-    text-decoration: underline;
 }
 h3{
     font-size: 20px;
