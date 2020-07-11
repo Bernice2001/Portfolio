@@ -11,10 +11,11 @@ This project is just a begining of my web development course.I have just describ
 ****
 ## Project links
 [This is a link for my github page](https://github.com/Bernice2001/Portfolio)
+
 [Click this link for my portfolio](https://github.com/Bernice2001/Portfolio)
-#LICENCE
-[MIT]()
-Copyright (c) 2020 Bernice Wangechi Maina
+# LICENCE
+[MIT](https://github.com/Bernice2001/Portfolio/commit/b7e450d71700e529a756265b6b7f71c479235ed1
+Copyright (c) 2020 Bernice Wangechi Maina)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
