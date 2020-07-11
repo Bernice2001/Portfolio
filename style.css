@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: oblique;
+    margin-left: 100px;
+    color: yellowgreen;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 70px;
+    color:rgb(165, 165, 18);
+    letter-spacing: 0.0px;
+
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 50px;
+    color: white;
+}
+li{
+    font-size:15px ;
+    font-weight: inherit;
+    font-style: normal;
+    margin-left: 15px;
+    color: yellowgreen;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 30px;
+    color:white;
+    }
+h4{
+    font-size:20px ;
+    font-weight:bold;
+    font-style:normal;
+    margin-left:25px;
+}
