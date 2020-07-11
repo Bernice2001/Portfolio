@@ -35,6 +35,7 @@ li{
     font-style: normal;
     margin-left: 15px;
     color: purple;
+    text-decoration: underline;
 }
 h3{
     font-size: 20px;
@@ -49,4 +50,3 @@ h4{
     font-style:normal;
     margin-left:25px;
 }
-
